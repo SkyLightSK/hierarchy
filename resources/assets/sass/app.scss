@@ -1,0 +1,20 @@
+
+// Fonts
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,400,600");
+
+// Variables
+@import "variables";
+
+// Font-awesome
+@import '~font-awesome/scss/font-awesome';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+// MBootstrap
+@import '~mdbootstrap/scss/mdb';
+
+.navbar-laravel {
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+}
